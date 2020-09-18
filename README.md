@@ -24,8 +24,9 @@ http://happyhouse.jaen.kr/
 
 
 # 기능1. 항목 클리시 주변상가정보 및 주변환경점검정보
-![기능1파이널](/uploads/cfe24fbb5ae07f83066785ed51264cca/기능1파이널.gif)
+![기능1파이널](https://user-images.githubusercontent.com/57858236/93555492-11b7b080-f9b1-11ea-96d9-1f354286d96a.gif)
 
 # 기능2. 헤더 선택시 오름차순 / 내림차순 정렬
 
-![기능2파이널](/uploads/7e13643993d6957f86bbc4fac56a2246/기능2파이널.gif)
+![기능2파이널](https://user-images.githubusercontent.com/57858236/93555484-0ebcc000-f9b1-11ea-88dd-2d25d62adc09.gif)
+
